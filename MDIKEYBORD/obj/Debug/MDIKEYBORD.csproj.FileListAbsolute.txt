@@ -1,0 +1,35 @@
+c:\users\vidura\documents\visual studio 2015\Projects\MDIKEYBORD\MDIKEYBORD\bin\Debug\MDIKEYBORD.exe.config
+C:\Users\VIDURA\documents\visual studio 2015\Projects\MDIKEYBORD\MDIKEYBORD\bin\Debug\MDIKEYBORD.exe
+C:\Users\VIDURA\documents\visual studio 2015\Projects\MDIKEYBORD\MDIKEYBORD\bin\Debug\MDIKEYBORD.pdb
+C:\Users\VIDURA\documents\visual studio 2015\Projects\MDIKEYBORD\MDIKEYBORD\obj\Debug\MDIKEYBORD.csprojResolveAssemblyReference.cache
+C:\Users\VIDURA\documents\visual studio 2015\Projects\MDIKEYBORD\MDIKEYBORD\obj\Debug\MDIKEYBORD.Form1.resources
+C:\Users\VIDURA\documents\visual studio 2015\Projects\MDIKEYBORD\MDIKEYBORD\obj\Debug\MDIKEYBORD.Properties.Resources.resources
+C:\Users\VIDURA\documents\visual studio 2015\Projects\MDIKEYBORD\MDIKEYBORD\obj\Debug\MDIKEYBORD.csproj.GenerateResource.Cache
+C:\Users\VIDURA\documents\visual studio 2015\Projects\MDIKEYBORD\MDIKEYBORD\obj\Debug\MDIKEYBORD.exe
+C:\Users\VIDURA\documents\visual studio 2015\Projects\MDIKEYBORD\MDIKEYBORD\obj\Debug\MDIKEYBORD.pdb
+C:\Users\VIDURA\documents\visual studio 2015\Projects\MDIKEYBORD\MDIKEYBORD\bin\Debug\Midi.dll
+C:\Users\VIDURA\documents\visual studio 2015\Projects\MDIKEYBORD\MDIKEYBORD\bin\Debug\Midi.xml
+C:\Users\VIDURA\Desktop\MDIKEYBORD\MDIKEYBORD\bin\Debug\MDIKEYBORD.exe.config
+C:\Users\VIDURA\Desktop\MDIKEYBORD\MDIKEYBORD\bin\Debug\MDIKEYBORD.exe
+C:\Users\VIDURA\Desktop\MDIKEYBORD\MDIKEYBORD\bin\Debug\MDIKEYBORD.pdb
+C:\Users\VIDURA\Desktop\MDIKEYBORD\MDIKEYBORD\bin\Debug\Midi.xml
+C:\Users\VIDURA\Desktop\MDIKEYBORD\MDIKEYBORD\obj\Debug\MDIKEYBORD.csprojAssemblyReference.cache
+C:\Users\VIDURA\Desktop\MDIKEYBORD\MDIKEYBORD\obj\Debug\MDIKEYBORD.Form1.resources
+C:\Users\VIDURA\Desktop\MDIKEYBORD\MDIKEYBORD\obj\Debug\MDIKEYBORD.Properties.Resources.resources
+C:\Users\VIDURA\Desktop\MDIKEYBORD\MDIKEYBORD\obj\Debug\MDIKEYBORD.csproj.GenerateResource.cache
+C:\Users\VIDURA\Desktop\MDIKEYBORD\MDIKEYBORD\obj\Debug\MDIKEYBORD.csproj.CoreCompileInputs.cache
+C:\Users\VIDURA\Desktop\MDIKEYBORD\MDIKEYBORD\obj\Debug\MDIKEYBORD.csproj.CopyComplete
+C:\Users\VIDURA\Desktop\MDIKEYBORD\MDIKEYBORD\obj\Debug\MDIKEYBORD.exe
+C:\Users\VIDURA\Desktop\MDIKEYBORD\MDIKEYBORD\obj\Debug\MDIKEYBORD.pdb
+F:\UNIVERSITY OF VOCATINOL TECHNOLOGY\3 RD SEMESTER\Visual Programming\SOF 19 B1 26 K P V N Pathirage Keybord\MDIKEYBORD\bin\Debug\MDIKEYBORD.exe.config
+F:\UNIVERSITY OF VOCATINOL TECHNOLOGY\3 RD SEMESTER\Visual Programming\SOF 19 B1 26 K P V N Pathirage Keybord\MDIKEYBORD\bin\Debug\MDIKEYBORD.exe
+F:\UNIVERSITY OF VOCATINOL TECHNOLOGY\3 RD SEMESTER\Visual Programming\SOF 19 B1 26 K P V N Pathirage Keybord\MDIKEYBORD\bin\Debug\MDIKEYBORD.pdb
+F:\UNIVERSITY OF VOCATINOL TECHNOLOGY\3 RD SEMESTER\Visual Programming\SOF 19 B1 26 K P V N Pathirage Keybord\MDIKEYBORD\bin\Debug\Midi.xml
+F:\UNIVERSITY OF VOCATINOL TECHNOLOGY\3 RD SEMESTER\Visual Programming\SOF 19 B1 26 K P V N Pathirage Keybord\MDIKEYBORD\obj\Debug\MDIKEYBORD.csproj.AssemblyReference.cache
+F:\UNIVERSITY OF VOCATINOL TECHNOLOGY\3 RD SEMESTER\Visual Programming\SOF 19 B1 26 K P V N Pathirage Keybord\MDIKEYBORD\obj\Debug\MDIKEYBORD.Form1.resources
+F:\UNIVERSITY OF VOCATINOL TECHNOLOGY\3 RD SEMESTER\Visual Programming\SOF 19 B1 26 K P V N Pathirage Keybord\MDIKEYBORD\obj\Debug\MDIKEYBORD.Properties.Resources.resources
+F:\UNIVERSITY OF VOCATINOL TECHNOLOGY\3 RD SEMESTER\Visual Programming\SOF 19 B1 26 K P V N Pathirage Keybord\MDIKEYBORD\obj\Debug\MDIKEYBORD.csproj.GenerateResource.cache
+F:\UNIVERSITY OF VOCATINOL TECHNOLOGY\3 RD SEMESTER\Visual Programming\SOF 19 B1 26 K P V N Pathirage Keybord\MDIKEYBORD\obj\Debug\MDIKEYBORD.csproj.CoreCompileInputs.cache
+F:\UNIVERSITY OF VOCATINOL TECHNOLOGY\3 RD SEMESTER\Visual Programming\SOF 19 B1 26 K P V N Pathirage Keybord\MDIKEYBORD\obj\Debug\MDIKEYBORD.csproj.CopyComplete
+F:\UNIVERSITY OF VOCATINOL TECHNOLOGY\3 RD SEMESTER\Visual Programming\SOF 19 B1 26 K P V N Pathirage Keybord\MDIKEYBORD\obj\Debug\MDIKEYBORD.exe
+F:\UNIVERSITY OF VOCATINOL TECHNOLOGY\3 RD SEMESTER\Visual Programming\SOF 19 B1 26 K P V N Pathirage Keybord\MDIKEYBORD\obj\Debug\MDIKEYBORD.pdb
